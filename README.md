@@ -62,7 +62,7 @@ Ensure you have **R** and **R Studio** installed. You will need the following ke
 The academic text detailing the theoretical framework, literature review, and comprehensive interpretation of these models is published as an open-access preprint.
 
 * **Author:** Bekdaulet Abzhamiev (Independent Researcher)
-* **ORCID Profile:** https://orcid.org/0009-0003-4999-1861
+* **ORCID Profile:** [https://orcid.org/0009-0003-4999-1861](https://orcid.org/0009-0003-4999-1861)
 * **Contact Email:** b.r.abzhamiev@gmail.com
 
 ---
