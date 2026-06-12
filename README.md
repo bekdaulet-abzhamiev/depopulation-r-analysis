@@ -4,6 +4,7 @@ Econometric panel data analysis (1990–2024) implemented in R Studio to investi
 ---
 
 This repository contains the complete replication code, econometric models, and data processing pipelines developed in **R Studio** for the research paper on global depopulation trends and fertility determinants. 
+[![DOI](https://zenodo.org/badge/1267223510.svg)](https://doi.org/10.5281/zenodo.20665055)
 
 ---
 
